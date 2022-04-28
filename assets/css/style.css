@@ -32,7 +32,7 @@ main {
 }
 
 .img-perfil {
-  max-width: 30%;
+  max-width: 15%;
   display: block;
   border: 2px var(--border-color) solid;
   border-radius: 50%;
